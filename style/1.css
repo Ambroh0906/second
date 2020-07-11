@@ -1,0 +1,13 @@
+h1{
+	font-family:'Bangers', cursive;
+	font-weight: 900; 
+}
+p{
+	font-size: 1,5em;
+	font-style: 
+	color:blue;
+	background:green;
+}
+a:hover{
+	text-decoration: none;
+}

@@ -1,0 +1,48 @@
+a.Store1:hover{
+	color:red;
+	background: green
+}
+
+a.Store2:hover{
+	color:green;
+	background: blue
+}
+a.Store3:hover{
+	color:blue;
+	background: red
+}
+p{
+	background: yellow;
+}
+#w{
+	background: #008080
+}
+h1:firs-latter{
+	font-size: 24px;
+	color: red;
+}
+h2:first-letter{
+	font-size: 30px;
+	color: red;
+}
+h2{
+	text-align: center;
+	background:greenyellow;
+
+}
+p.cite{
+	background: #008080; font-size: 250;
+}
+.test1:first-line{
+	font-style: italic;
+} 
+.test2:before{
+	content: "fewfwfwfw"
+}
+.test2:after{
+	content: "fewfwfwfw"
+}
+::selection{
+	color: grey;
+    background: black;
+}

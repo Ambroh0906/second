@@ -1,0 +1,15 @@
+img[title="super star"]{
+	width: 100px;
+}
+img[title="череп"]{
+	width: 400px;
+}
+img[title="lion"]{
+	width: 600px;
+}
+a[href="https://www.youtube.com/watch?v=cwlBk6vPSxQ"]{
+	color: red;
+}
+a[href="https://ru.lipsum.com/"]{
+	color: green;
+}
